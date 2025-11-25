@@ -16,6 +16,5 @@ remote_theme: "jekyll/minima@1e8a445"
 
 title: alana's traumarama
 description: you can read about a trans woman's anguish. You know, if you're into that kind of thing.
-theme: minima
 minima:
   skin: dark
